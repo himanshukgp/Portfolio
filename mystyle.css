@@ -2,7 +2,7 @@
 	/*background-color: rgb(25,0,200);*/
 	overflow: hidden;
 	height:200px;
-	background-image: url("galaxy1.jpg");
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4VBwst5gbz4KQxmBkFbgXShpNrjP8sJ6-tE8oqql-H1IJfdJw2A");
 }
 
 .topbar a{
@@ -18,18 +18,21 @@ overflow:auto;
     color: black;
 }
 
-/*
+
 .fit {
-	padding: 0;
+	padding: 50px;
     display: block;
     margin: 0 auto;
-    max-height: 90%;
-    max-width: 100%;
-}*/
-.fit{
-	float:center;
+    max-height: 50%;
+    max-width: 50%;
+}
+/*.fit{
 	height:100px;
 	width:100px;
+}*/
+
+#back {
+background-image: url("http://cdn.wallpapersafari.com/90/18/qZrszA.jpg");
 }
 
 html, body {
