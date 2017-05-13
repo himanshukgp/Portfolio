@@ -1,8 +1,7 @@
 .topbar{
-	/*background-color: rgb(25,0,200);*/
 	overflow: hidden;
-	height:200px;
-	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4VBwst5gbz4KQxmBkFbgXShpNrjP8sJ6-tE8oqql-H1IJfdJw2A");
+	height:5%;
+	background-image: url("1.jpg");
 }
 
 .topbar a{
@@ -10,7 +9,6 @@ float: left;
 color: white;
 padding: 5px 50px;
 text-decoration:none;
-overflow:auto;
 }
 
 .topbar a:hover {
@@ -18,29 +16,63 @@ overflow:auto;
     color: black;
 }
 
-
-.fit {
-	padding: 50px;
-    display: block;
-    margin: 0 auto;
-    max-height: 50%;
-    max-width: 50%;
+.content{
+	background-color:#cccccc;
+	width:;
+	margin:auto;
+	display:inline-flex;
+	margin:5%;
+	margin-left:13%;
+	margin-right:13%;
+	padding:4%
+	
 }
-/*.fit{
-	height:100px;
-	width:100px;
-}*/
+
+.content2{
+text-align:center;
+}
+
+.list1{
+list-style-type:none;
+background-color:#f1f0ff;
+color:;
+margin:5%;
+margin-top:6%;
+padding:5%;
+}
+
+
+.fit{
+	height:65%;
+	width:65%;
+	text-align:right;
+	margin:3%;
+	margin-left:0px;
+}
+
+.text{
+text-align:center;
+padding:2%;
+margin:4%;
+font-size:200%;
+margin-right:0px;
+padding-right:0px;
+font-family:verdana;
+}
+
+.text2{
+font-size:250%;
+line-height:200%;
+}
 
 #back {
-background-image: url("http://cdn.wallpapersafari.com/90/18/qZrszA.jpg");
+/*background-image: url("2.jpg");*/
+background-color:#097054;
 }
 
-html, body {
-    height: 100%;
-    margin: 0;
-    padding: 0;
+
+#back2 {
+/*background-image: url("3.jpg");*/
+background-color:#443262;
 }
 
-img {
-    
-}
